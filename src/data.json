@@ -1,0 +1,32 @@
+[
+	{
+		"src": "images/3-removebg-preview-modified.png",
+		"link": "https://dummylink1.com",
+		"heading": "Course 1",
+		"description": "Course 1 is awesome. You should definitely take it. It's a great course. This is one of the best course on the market right now."
+	},
+	{
+		"src": "images/3-removebg-preview-modified.png",
+		"link": "https://dummylink2.com",
+		"heading": "Course 2",
+		"description": "You are looking at course 2. It's a great course. No need to look further. This is the course of your dreams."
+	},
+	{
+		"src": "images/3-removebg-preview-modified.png",
+		"link": "https://dummylink3.com",
+		"heading": "Course 3",
+		"description": "This course is one of the most bought courses on the platform. It is a beginner level course. Just blindly take it."
+	},
+	{
+		"src": "images/3-removebg-preview-modified.png",
+		"link": "https://dummylink4.com",
+		"heading": "Course 4",
+		"description": "This is one of my favorite courses. I had so much fun making it. I hope you have fun taking it."
+	},
+	{
+		"src": "images/3-removebg-preview-modified.png",
+		"link": "https://dummylink5.com",
+		"heading": "Course 5",
+		"description": "Are you in the market for a course? Well, you have come to the right place. This is the course you are looking for."
+	}
+]

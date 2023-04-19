@@ -1,0 +1,70 @@
+{
+	"success": true,
+	"datas": [
+		{
+			"_id": "resource_12",
+			"title": "this is header for resource 12",
+			"mainTxt": "Use this ”handy” guide to estimate portion sizes as part of your healthy eating plan.",
+			"img": "https://ik.imagekit.io/nb7rfptez/ORIGINALS/ED_-_pexels-jamie-he-563067_tHmjBG8BY.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1656050867181",
+			"rating": null,
+			"feedback": null,
+			"screenTime": null,
+			"bookmark": false,
+			"likeDisLike": null,
+			"resourceType": "VIDEO",
+			"url": "https://www.youtube.com/watch?v=vix0NbikS5o"
+		},
+		{
+			"_id": "resource_33",
+			"title": "this is header for resource 33",
+			"mainTxt": "The practice of “counting your blessings “ is backed by religion and science, and it can help you improve your well-being, performance, sleep, relationships, blood pressure, and stress levels.",
+			"img": "https://ik.imagekit.io/nb7rfptez/ORIGINALS/SELF_AWARENESS_-_lilartsy-333oj7zFsdg-unsplash_gY1rIgwYH.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1656051488833",
+			"rating": null,
+			"feedback": null,
+			"screenTime": null,
+			"bookmark": false,
+			"likeDisLike": null,
+			"resourceType": "ARTICLE",
+			"url": "https://www.hprc-online.org/mental-fitness/spiritual-fitness/why-you-should-count-your-blessings-improve-performance"
+		},
+		{
+			"_id": "resource_30",
+			"title": "this is header for resource 30",
+			"mainTxt": "Spiritual fitness can help you leverage your value system, spirituality, and/or religion for peak performance, readiness, and resilience.",
+			"img": "https://ik.imagekit.io/nb7rfptez/ORIGINALS/EMOTIONAL_INTELLIGENCE_pexels-sunsetoned-7283618_A4qUWJle4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1656051488093",
+			"rating": null,
+			"feedback": null,
+			"screenTime": null,
+			"bookmark": true,
+			"likeDisLike": "DISLIKE",
+			"resourceType": "ARTICLE",
+			"url": "https://www.hprc-online.org/mental-fitness/spiritual-fitness/strategies-build-your-spiritual-fitness"
+		},
+		{
+			"_id": "resource_59",
+			"title": "this is header for resource 59",
+			"mainTxt": "Managing the psychological toll of being called on to respond to crisis situations can feel extremely challenging, even if it's what you've trained to do your whole life.",
+			"img": "https://ik.imagekit.io/nb7rfptez/ORIGINALS/DECISION_MAKING_2h-media-cdDDWLezAJ0-unsplash_sVwRxnK41.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1656051773000",
+			"rating": null,
+			"feedback": null,
+			"screenTime": null,
+			"bookmark": false,
+			"likeDisLike": null,
+			"resourceType": "COURCES",
+			"url": "https://www.udemy.com/courses/health-and-fitness/general-health/"
+		},
+		{
+			"_id": "resource_53",
+			"title": "this is header for resource 59",
+			"mainTxt": "Physical activity, whether it's sports, structured exercise, or unstructured exercise, helps develop positive character in kids.",
+			"img": "https://ik.imagekit.io/nb7rfptez/ORIGINALS/ED_-_pexels-jamie-he-563067_tHmjBG8BY.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1656050867181",
+			"rating": null,
+			"feedback": null,
+			"screenTime": null,
+			"bookmark": false,
+			"likeDisLike": null,
+			"resourceType": "VIDEO",
+			"url": "https://www.youtube.com/watch?v=vix0NbikS5o"
+		}
+	]
+}
